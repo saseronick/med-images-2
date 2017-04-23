@@ -1,6 +1,5 @@
 {
     "require": {
-        "vendor/autoload.php"
         "vendor/composer": "2.6"
     }
 }
